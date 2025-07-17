@@ -1,2 +1,4 @@
 [server]
-pythonVersion = "3.12"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
